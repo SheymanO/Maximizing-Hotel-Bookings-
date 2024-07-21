@@ -1,5 +1,5 @@
 
-# Maximizing Hotel Bookings An Excel Analysis Project
+# Maximizing Hotel Bookings 
 ![image](Hotel_image.webp)  
 **Maximizing Hotel Bookings with Data-Driven Insights: An Excel Analysis Project**    
 In today's competitive hospitality industry, data-driven decision-making is essential for optimizing operations and enhancing guest experiences. I recently completed a comprehensive Excel analysis project on hotel booking data, from three different property and I’m excited to share my findings with you. This analysis sheds light on how advanced bookings, booking channels, and room types impact overall hotel performance.  
